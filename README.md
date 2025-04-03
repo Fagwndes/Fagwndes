@@ -1,4 +1,4 @@
-### Olá 🏄‍♂️
+### Olá Sou Kawan Fagundes 🏄‍♂️
 
 Eu sou Kawan Fagundes, sou um Programador Front End e Desenvolverdor Front End, atualmente estou aprendendo e criando projetos com:
 <br>

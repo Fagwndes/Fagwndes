@@ -15,7 +15,7 @@ Eu sou Kawan Fagundes, sou um Programador Front End e Desenvolverdor Front End, 
 ### Conecte-se comigo:
 
 <p> 
-<a href="www.linkedin.com/in/kawan-fagundes"> 
+<a href="https://www.linkedin.com/in/kawan-fagundes/#:~:text=www.linkedin.com/in/kawan%2Dfagundes"> 
 <img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit"/>
 </a>
 </p>

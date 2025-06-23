@@ -24,7 +24,7 @@ Sou Kawan Fagundes, Desenvolvedor Front-End apaixonado por transformar ideias em
 
 ### 🚀 Projetos em Destaque
 
-- 🔗 [Projeto Super Choque](https://fagwndes.github.io/Projeto-Nike/) – .
+- 🔗 [Projeto Super Choque](https://fagwndes.github.io/Super-Choque/) – Para venda.
 - 🔗 [Projeto Nike](https://fagwndes.github.io/Projeto-Nike/) – Inpirado no site da Nike.
 ---
 
